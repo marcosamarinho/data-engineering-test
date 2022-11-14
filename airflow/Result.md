@@ -16,10 +16,11 @@ copy vendas-combustiveis-m3.xls to data
 
 3- See results at dirs created at the data dir.
 
-## About Result
-![Raízen Logo](airflow/images/Captura de tela de 2022-11-14 11-13-49.png)
+## About Result see source and result directories at dags/data
+![Raízen Logo](./images/Tela1.png)
 
-**Raízen is an integrated energy company.**
+## About Result check partitions
+![Raízen Logo](./images/Tela2.png)
 
 
 
